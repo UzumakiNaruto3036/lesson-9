@@ -5,4 +5,3 @@ while i<=n:
     sum=sum+i
     i=i+1
 print("The sum of first",n,"terms is:",sum)
-    
